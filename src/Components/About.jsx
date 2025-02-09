@@ -87,7 +87,7 @@ function AboutSection() {
 
         {/* Call-to-Action Button */}
         <motion.a
-          href="https://drive.google.com/file/d/1tjAtaKBMNylAr-YjremPcD438U4ACEsA/view?usp=sharing" // Replace with the path to your resume file
+          href="https://drive.google.com/file/d/1VdPqIbqkvemUL9HoPswM0XMxyPx8ipmi/view?usp=sharing" //path to your resume file
           download="Prabhas_Resume.pdf" // Optional: Specify the name of the downloaded file
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.9 }}
